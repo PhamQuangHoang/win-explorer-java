@@ -106,6 +106,7 @@ Bắt sự kiện double click bằng getClickCout để mở folder mới ở t
  Sử dụng File.renameto(File("newpath"); của thử viện java.io.*;
   
    Bắt event mouseClicked cho btnRENAME ; 
+   
 step 1 : 
 
          Lấy tên mới từ người sử dụng bằng box của joptionpane .
@@ -133,7 +134,9 @@ Dùng Files.copy(path SrcFile , path DesFile);
 Hàm được sử dụng để copy với 2 đối số là đường dẫn đến thư mục chứa file và đường dẫn mới đến
 thư mục cần copy .
 
-vd :  sourcepath : D:\newfolder:\File.java
+vd :  
+sourcepath : D:\newfolder:\File.java
+
         DesPath :  D:\File.java 
 Thì File.java sẽ được copy từ sourcepath đến desPath (từ thư mục newfolder -> ổ D )\
 
