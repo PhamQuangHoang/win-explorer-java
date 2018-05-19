@@ -67,12 +67,16 @@ và setmodel cho cây .
 tree.setModel(treemodel);
  
 Bắt sự kiện valueChanged cho tree 
+
 DefaultMutableTreeNode nodeselected = (DefaultMutableTreeNode) e.getPath().getLastPathComponent();
 */ lấy giá trị được chọn khi click từ cây  ;
+
 TreePath treepath = e.getPath();
 */ dùng TreePath đễ lấy đường dẫn từ cây . 
+
 txtpath.setText(getTreepath(treepath));
 */ dùng hàm getTreepath đễ xử lý String lấy được đường dẫn đúng . 
+
 VD: đường dẫn gốc khi lấy  từ treepath [this PC:,][D:\,]
     thì sau khi qua hàm này sẽ trờ thành this PC:\\D    (đường dẫn đúng)
 
@@ -83,11 +87,13 @@ Bắt sự kiện mousePressed cho table :
 
 int row = table.getSelectedRow();
 */lấy hàng được chọn
+
 String name = table.getModel().getValueAt(row, 0).toString();
  */ lấy giá trị được chọn tại vị trí click .
+ 
+Sử dụng giá trị "name " vừa lấy cùng với path hiện tại đề load table mới
 
-Xử dụng giá trị "name " vừa lấy cùng với path hiện tại đề load table mới
-   Bắt sự kiện double click bằng getClickCout để mở folder mới ở trên table .
+Bắt sự kiện double click bằng getClickCout để mở folder mới ở trên table .
 
 ******************************************************************************
 
