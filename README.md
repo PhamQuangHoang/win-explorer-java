@@ -14,9 +14,28 @@ Câu 2 : Chức năng rename File;
 Chức năng làm thêm  Copy File ;
 
 ******************************************************************************
+# Hướng dẫn sử dụng : 
+ Chức năng rename : 
+     
+     Chọn File cần rename trên table . 
+     
+     Click vào button rename và nhập tên mới . 
+     
+     click Ok or ấn Enter . Nếu báo Success thì rename hoàn tất .
+     
+  Chức năng phụ Copy : 
+     
+     Chọn File cần copy trên table . 
+     
+     Click vào button copy sẽ hiện lên thông báo kèm với tên File.
+     
+     Chọn thư mục cần copy và Click Paste . 
+     
+ Cách 2 chức năng trên chạy được trình bày ở cuối trang :xd .     
+******************************************************************************
+ # CÁCH CODE CHẠY :        
 
-
-  #  Các hàm sử dụng và chức năng :
+  ## Các hàm sử dụng và chức năng :
 
 DefaultTableModel CreateTableData(DefaultTableModel tb, String folder)
  
