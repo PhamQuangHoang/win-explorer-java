@@ -2,10 +2,16 @@
     https://youtu.be/3HkkwRo0BRI
 
 Tên SV : Phạm Quang Hoàng 
+
 MÃ SV : 17it059 
-ĐỀ số 10 :    Câu 1 : FileExplore ;
-                     Câu 2 : Chức năng rename File; 
-                    Chức năng làm thêm  Copy File ;
+
+ĐỀ số 10 :   
+
+Câu 1 : FileExplore ;
+
+Câu 2 : Chức năng rename File; 
+
+Chức năng làm thêm  Copy File ;
 
 ******************************************************************************
 
