@@ -31,7 +31,7 @@ Chức năng làm thêm  Copy File ;
      
      Chọn thư mục cần copy và Click Paste . 
      
- Cách 2 chức năng trên chạy được trình bày ở cuối trang :xd .     
+ Cách 2 chức năng trên chạy được trình bày ở cuối trang :D.     
 ******************************************************************************
  # CÁCH CODE CHẠY :        
 
