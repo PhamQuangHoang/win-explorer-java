@@ -142,7 +142,8 @@ vd :
          sourcepath :   D:\newfolder:\File.java  
          
          DesPath :  D:\File.java 
-Thì File.java sẽ được copy từ sourcepath đến desPath (từ thư mục newfolder -> ổ D )
+         
+         Thì File.java sẽ được copy từ sourcepath đến desPath (từ thư mục newfolder -> ổ D )
 
 Bắt sự kiện mouseClicked  cho btnCopy ;
 
