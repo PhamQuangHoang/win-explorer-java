@@ -50,13 +50,11 @@ dùng để copyfile (chức năng thêm )
 /*Vì lý do ổ C có nhiều dữ liệu quan trọng nên em không nạp ổ C vào tree. 
  
 gồm 4 phần :
- top => Show path of File . 
- 
-                       left => Tree .
-                       
-                        center=> table .
-                        
-                    bottom=> label about name , size , type và các button chức năng .
+
+                      top => Show path of File . 
+                      left => Tree .                       
+                      center=> table .
+                      bottom=> label của name , size , type và các button chức năng .
 
 # Chạy chương trình  :
 
