@@ -365,7 +365,7 @@ public class Explorer extends JFrame {
 		return value;
 
 	}
-	//copy File method Chức năng thêm
+	//copy File Chức năng thêm
 	public static void copyFile(Path source, Path destination) throws IOException {
 		Files.copy(source, destination, StandardCopyOption.REPLACE_EXISTING);
 	}
