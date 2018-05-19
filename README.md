@@ -51,8 +51,11 @@ dùng để copyfile (chức năng thêm )
  
 gồm 4 phần :
  top => Show path of File . 
-                       left => Tree 
-                        center=> table 
+ 
+                       left => Tree .
+                       
+                        center=> table .
+                        
                     bottom=> label about name , size , type và các button chức năng .
 
 # Chạy chương trình  :
