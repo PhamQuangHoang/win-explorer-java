@@ -63,7 +63,10 @@ First :  Tạo ra các cành cho jtree bằng hàm createChildren(gốc cây , �
  add cây con cho tree , sử dụng DefaultTreemodel là dữ liệu đễ thêm vào jtree . 
  
 treemodel = new DefaultTreeModel(root);
-//root là các nhánh , cành của cây có kiểu DefautlMuTableTreeNode.
+
+//root là gốc của cây có kiểu DefautlMuTableTreeNode.
+
+//các node là cây con được add vào root
 
 Rồi thêm dữ liệu cho cây 
 
@@ -135,10 +138,11 @@ Hàm được sử dụng để copy với 2 đối số là đường dẫn đ�
 thư mục cần copy .
 
 vd :  
-sourcepath : D:\newfolder:\File.java
 
-        DesPath :  D:\File.java 
-Thì File.java sẽ được copy từ sourcepath đến desPath (từ thư mục newfolder -> ổ D )\
+         sourcepath :   D:\newfolder:\File.java  
+         
+         DesPath :  D:\File.java 
+Thì File.java sẽ được copy từ sourcepath đến desPath (từ thư mục newfolder -> ổ D )
 
 Bắt sự kiện mouseClicked  cho btnCopy ;
 
