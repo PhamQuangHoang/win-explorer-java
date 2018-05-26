@@ -95,7 +95,7 @@ public class Explorer extends JFrame {
 		panel_1.add(scrollPane_1);
 
 		JTree tree = new JTree();
-		tree.getSelectionModel().setSelectionMode(TreeSelectionModel.SINGLE_TREE_SELECTION);
+		tree.getSelectionModel().setSelectionMode(TreeSelectionModel.MULTIPLE_INTERVAL_SELECTION);
 		scrollPane_1.setViewportView(tree);
 
 		// TẠO NODE CHO TREE
