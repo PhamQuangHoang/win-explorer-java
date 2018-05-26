@@ -15,6 +15,11 @@ Chức năng làm thêm  Copy File ;
 
 ******************************************************************************
 # Hướng dẫn sử dụng : 
+ Về Giao diện : Nếu table không thể load tiếp thư mục , mình cần reload lại table bằng cây thư mục bên cạnh để có thể tiếp tục load 
+ File . 
+ 
+ 
+ 
  Chức năng rename : 
      
      Chọn File cần rename trên table . 
@@ -23,13 +28,18 @@ Chức năng làm thêm  Copy File ;
      
      click Ok or ấn Enter . Nếu báo Success thì rename hoàn tất .
      
-  Chức năng phụ Copy : 
+  Chức năng phụ Copy 1 File : 
+     
+     
      
      Chọn File cần copy trên table . 
      
      Click vào button copy sẽ hiện lên thông báo kèm với tên File.
      
      Chọn thư mục cần copy và Click Paste . 
+   
+      
+     
      
  Cách 2 chức năng trên chạy được trình bày ở cuối trang :D.     
 ******************************************************************************
