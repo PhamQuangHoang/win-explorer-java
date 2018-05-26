@@ -33,6 +33,21 @@ Chức năng làm thêm  Copy File ;
      
  Cách 2 chức năng trên chạy được trình bày ở cuối trang :D.     
 ******************************************************************************
+
+# CÁCH CHẠY CODE 
+
+1. Tải project từ github . Dạng Foldel tên là Exercise_Midle . 
+
+2. Mở cmd của window 
+
+3. Dùng lệnh cd chuyển đến thư mục src  vd : C:\Users\Admin\Desktop\Exercise_Midle\src 
+
+4. Biên dịch bằng lệnh : javac I_O\Explorer.java
+
+5. Chạy chương trình bằng lệnh : java I_O.Explorer
+
+
+******************************************************************************
  # CÁCH CODE CHẠY :        
 
   ## Các hàm sử dụng và chức năng :
