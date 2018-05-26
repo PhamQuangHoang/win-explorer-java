@@ -46,11 +46,11 @@ Chức năng làm thêm  Copy File ;
 
 # CÁCH CHẠY CODE 
 
-1. Tải project từ github . Dạng Foldel tên là Exercise_Midle . 
+1. Tải project từ github . Dạng Foldel tên là ThiGiuaKy và đưa ra thư mục Desktop .
 
 2. Mở cmd của window 
 
-3. Dùng lệnh cd chuyển đến thư mục src  vd : C:\Users\Admin\Desktop\Exercise_Midle\src 
+3. Dùng lệnh cd chuyển đến thư mục src  vd : cd C:\Users\Admin\Desktop\ThiGiuaKy\src
 
 4. Biên dịch bằng lệnh : javac I_O\Explorer.java
 
