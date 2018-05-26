@@ -14,10 +14,7 @@ Câu 2 : Chức năng rename File;
 Chức năng làm thêm  Copy File ;
 
 ******************************************************************************
-# Hướng dẫn sử dụng : 
- Về Giao diện : Nếu table không thể load tiếp thư mục , mình cần reload lại table bằng cây thư mục bên cạnh để có thể tiếp tục load 
- File . 
- 
+# Hướng dẫn sử dụng  
  
  
  Chức năng rename : 
