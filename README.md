@@ -38,7 +38,7 @@ Chức năng làm thêm  Copy File ;
       
      
      
- Cách 2 chức năng trên chạy được trình bày ở cuối trang :D.     
+    
 ******************************************************************************
 
 # CÁCH CHẠY CODE 
